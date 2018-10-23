@@ -38,10 +38,6 @@
     },
     {
       "type": "vcs",
-      "url": "https://bitbucket.org/wpp/elementor-pro"
-    },
-    {
-      "type": "vcs",
       "url": "https://bitbucket.org/wpp/coin-market-cap"
     },
     {
