@@ -1,0 +1,112 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/wp-media-folder"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/wp-media-folder-addon"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/wp-fsqm-pro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/jet-theme-core"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/jet-menu"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/jet-blog"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/jet-elements"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/jet-reviews"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/jet-data-importer"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/elementor-pro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/coin-market-cap"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/easy-social-share-buttons3"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/nfwplus"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/wp-rocket"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/youzer"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/youzer-member-types"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/totalpoll"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/wallets-author-payroll"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/wallets-cp"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/wallets-tips"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/elementor-extras"
+    },
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/wpp/searchwp"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wp-pt/wordpress-google-docs"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wp-pt/import-external-images"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wp-pt/newconomy-gutenberg-blocks"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wp-pt/qqworld-auto-save-images"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/wp-pt/cryptocurrency-price-ticker-widget"
+    }
+  ]
+}
